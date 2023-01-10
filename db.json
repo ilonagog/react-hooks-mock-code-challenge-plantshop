@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Ilona",
+      "image": "LILI",
+      "price": "5.00",
+      "id": 8
+    },
+    {
+      "name": "Ilona",
+      "image": "LILI",
+      "price": "5.00",
+      "id": 9
+    },
+    {
+      "name": "Ilona",
+      "image": "LILI",
+      "price": "5.00",
+      "id": 10
     }
   ]
 }
